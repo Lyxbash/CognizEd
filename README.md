@@ -18,7 +18,6 @@ CognizEd is a visionary project that leverages the power of Artificial Intellige
 - **Efficient Data Processing:** Utilize AI for real-time analysis and decision-making.
 - **Dynamic Educational Environment:** Create a more engaging and interactive virtual classroom.
 
-![Space for Image 1]
 
 ## Target Audience
 - Educational institutions and educators
@@ -43,7 +42,6 @@ The system uses advanced AI for tasks like summarization, note-taking, custom qu
 - Collaborative tools for students
 - Prioritizing accessibility
 
-![Space for Image 2]
 
 ## The Business Plan
 1. **Expansion Beyond EdTech Horizons:** Tapping into markets dedicated to lifelong learning and professional development.
